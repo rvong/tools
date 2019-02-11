@@ -57,3 +57,5 @@
 ## Networking
 * Apache Mina, Netty (powers Play, Vert.x, etc.) (Trustin Lee, Armeria (Line Corp.)).
 
+## Reading
+* https://segment.com/blog/exactly-once-delivery/
