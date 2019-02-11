@@ -75,5 +75,11 @@
 * tigase
 * prosody
 
+## Data Science
+* Databricks
+* Anaconda Navigator
+* Enthought Canopy
+* Jupyter
+
 ## Reading
 * https://segment.com/blog/exactly-once-delivery/
