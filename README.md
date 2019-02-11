@@ -69,5 +69,11 @@
 * Consul
 * etcd
 
+## Chat
+* ejabberd
+* openfire
+* tigase
+* prosody
+
 ## Reading
 * https://segment.com/blog/exactly-once-delivery/
