@@ -57,5 +57,17 @@
 ## Networking
 * Apache Mina, Netty (powers Play, Vert.x, etc.) (Trustin Lee, Armeria (Line Corp.)).
 
+## Infrastructure
+* Terraform
+* Cloudration
+
+## Container
+* Docker, AlpineLinux
+
+## Distributed Registry (KV Store)
+* ZooKeeper
+* Consul
+* etcd
+
 ## Reading
 * https://segment.com/blog/exactly-once-delivery/
